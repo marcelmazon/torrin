@@ -13,9 +13,12 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "torrin",
+        "label": "main",
+        "title": "Torrin",
         "width": 1000,
-        "height": 618
+        "height": 618,
+        "center": true,
+        "decorations": false
       }
     ],
     "security": {
